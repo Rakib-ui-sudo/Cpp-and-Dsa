@@ -1,0 +1,4 @@
+rakib 2 98
+riyad 9 90
+arafat 8 70
+atik 10 70
